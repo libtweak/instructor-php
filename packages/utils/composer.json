@@ -36,7 +36,7 @@
     "ext-libxml": "*",
     "ext-simplexml": "*",
     "ext-xmlreader": "*",
-    "adbario/php-dot-notation": "^3.3",
+    "adbario/php-dot-notation": "^2.4.1",
     "aimeos/map": "^3.8",
     "psr/log": "^3.0",
     "psr/container": "^2.0",

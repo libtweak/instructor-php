@@ -1,3 +1,10 @@
+> **⚠️ Fork Notice**
+>
+> This is a fork of [cognesy/instructor-php](https://github.com/cognesy/instructor-php) with the following modification:
+>
+> - `adbario/php-dot-notation` dependency downgraded from `^3.3` to `^2.4.1` to resolve dependency conflicts with projects that require `adbario/php-dot-notation ^2.x`.
+>
+> **Modified files:** `composer.json`, `packages/utils/composer.json`, `composer.lock`
 
 # About This Monorepo
 
