@@ -1,5 +1,5 @@
 {
-    "name": "cognesy/instructor-php",
+    "name": "libtweak/instructor-php",
     "description": "The complete AI toolkit for PHP: unified LLM API, structured outputs, agents, and coding agent control",
     "keywords": [
         "llm",
